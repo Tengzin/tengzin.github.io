@@ -6,15 +6,15 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   color: #1b262c;
-  margin: 90px auto 40px auto;
+  margin: 90px auto 20px auto;
   font-family: 'Cairo', sans-serif;
   font-weight: 600;
 }
 
 h2 {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   color: #1b262c;
   font-family: 'Cairo', sans-serif;
   font-weight: normal;
@@ -81,15 +81,17 @@ hr {
 }
 
 .cool-pc {
-    margin: 200px auto 0;
-    width: 40%;
-    position: relative;
+  width: 48%;
+    /* margin: 200px auto 0;
+    width: 30%;
+    position: relative; */
 }
 
 /* Middle Section */
 
 .profile-pic {
-  width: 260px;
+  margin: 40px;
+  width: 240px;
 }
 
 .skills {
